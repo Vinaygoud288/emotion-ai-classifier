@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 Place your trained `emotion_model_bundle.pkl` in the root of the project (alongside `app.py`).
 
-> The `.pkl` file is not included in this repo due to file size. Train your own or obtain it separately.
+> Model file not included due to size limitations. Train the model using the notebook or download from Google Drive.
 
 
 ### 5. Run the app
