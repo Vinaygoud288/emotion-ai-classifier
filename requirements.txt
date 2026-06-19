@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn==1.9.0
+joblib
+streamlit
+imblearn
+pillow
